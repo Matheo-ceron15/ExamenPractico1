@@ -8,9 +8,92 @@
     tools:context=".ui.slideshow.SlideshowFragment">
 
     <TextView
-        android:id="@+id/text_slideshow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Recomendaciones"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:fontFamily="cursive"
+        android:layout_gravity="center"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="20dp"
+    android:orientation="vertical"
+    android:layout_marginStart="20dp"
+    android:layout_marginEnd="20dp">
+
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Tercer fragmento"
+        android:textSize="16dp"
+        android:text="Seleccione el año al que asiste: "/>
+    <Spinner
+        android:id="@+id/sp_estado"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:entries="@array/curso"
+        android:spinnerMode="dropdown"
+        android:background="@drawable/estilospinner"
+        style="@style/Widget.AppCompat.DropDownItem.Spinner"
         />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:text="Carrera que estudia: "/>
+    <Spinner
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:entries="@array/curso1"
+        android:spinnerMode="dropdown"
+        android:background="@drawable/estilospinner"
+        style="@style/Widget.AppCompat.DropDownItem.Spinner"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Escriba su nombre: "
+        android:textSize="16dp"
+        android:layout_marginTop="10dp"
+        android:hint="No es obligatorio"
+        />
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:hint="No es obligatorio"
+        android:textSize="16dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Comentarios o criticas:"
+        android:textSize="16dp"
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:hint="Comentarios..."
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Enviar comentarios"
+        android:shadowColor="@color/purple_500"
+
+        />
+
+</LinearLayout>
+
+    </ScrollView>
 </androidx.appcompat.widget.LinearLayoutCompat>

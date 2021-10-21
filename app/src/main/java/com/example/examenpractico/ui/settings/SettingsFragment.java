@@ -29,7 +29,6 @@ public class SettingsFragment extends Fragment {
 
         binding = FragmentSettingsBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
-
 //
 //        final TextView textView = binding.textSettings;
 //        settingsViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
@@ -40,6 +39,7 @@ public class SettingsFragment extends Fragment {
 //        });
         return root;
     }
+
     @Override
     public void onDestroyView() {
         super.onDestroyView();

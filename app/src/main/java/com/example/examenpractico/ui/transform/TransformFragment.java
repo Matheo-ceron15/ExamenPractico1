@@ -1,11 +1,16 @@
 package com.example.examenpractico.ui.transform;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.Spinner;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.core.content.res.ResourcesCompat;
@@ -33,13 +38,17 @@ public class TransformFragment extends Fragment {
     private TransformViewModel transformViewModel;
     private FragmentTransformBinding binding;
 
+    private Spinner spinner1;
+    private EditText et1,et2;
+    private TextView tv3;
+
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        transformViewModel =
-                new ViewModelProvider(this).get(TransformViewModel.class);
+        //transformViewModel = new ViewModelProvider(this).get(TransformViewModel.class);
 
         binding = FragmentTransformBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
+
 //
 //        RecyclerView recyclerView = binding.recyclerviewTransform;
 //        ListAdapter<String, TransformViewHolder> adapter = new TransformAdapter();
@@ -47,7 +56,6 @@ public class TransformFragment extends Fragment {
 //        transformViewModel.getTexts().observe(getViewLifecycleOwner(), adapter::submitList);
         return root;
     }
-
     @Override
     public void onDestroyView() {
         super.onDestroyView();
@@ -116,4 +124,6 @@ public class TransformFragment extends Fragment {
 //            textView = binding.textViewItemTransform;
 //        }
 //    }
+
+
 }

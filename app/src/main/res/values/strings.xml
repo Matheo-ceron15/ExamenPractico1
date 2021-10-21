@@ -7,9 +7,9 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_transform">Transform</string>
-    <string name="menu_reflow">Reflow</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_transform">Historia de El Salvador</string>
+    <string name="menu_reflow">Proceres de El Salvador</string>
+    <string name="menu_slideshow">Recomendaciones</string>
     <string name="menu_settings">Acerca de</string>
     <string name="acercade">Acerca de</string>
 
@@ -19,4 +19,131 @@
         since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
         type specimen book"
     </string>
+
+    <string name="historia">Numerosas civilizaciones amerindias se
+        esparcieron en El Salvador actual mucho antes de la consquista española,
+        a comienzos del siglo XVI,y la región estaba poblada mayoritariamente por Pipils,
+        indios de lengua nahuatl, durante su conquista, en 1524, por el español Pedro de Alvarado. La región fue a continuación administrada por la capitanería general de Guatemala,
+        y los pueblos indígenas fueron diezmados.
+</string>
+    <string name="historia1"></string>
+
+    <string name="historia2">Después de dos tentativas infructuosas, en 1811 y en 1814,
+        El Salvador accedió a la independencia en 1821, para ser enseguida englobado en el
+        efímero imperio de México de Agustín de Iturbide.</string>
+
+
+    <string name="historia3">En 1823, después del derrumbe del imperio,
+        el Salvador y sus vecinos formaron las Provincias Unidas de América Central;
+        una vez la federación disuelta (1838), El Salvador pudo proclamar su completa soberanía en 1841.</string>
+
+
+    <string name="historia4">Durante varias décadas, el país conoció una sucesión de conflictos entre liberales y conservadores.
+        El cultivo del café tuvo su pleno desarrollo en los años \'50 y se volvió la base de la economía de El Salvador.</string>
+
+
+    <string name="historia5">La crisis de 1929, responsable de la caida de los precios del café, exacerbó las tensiones sociales.
+        En 1931, un levantamiento paisano, en el oeste del país, fue reprimido violentamente (30.000 muertos)
+        por el general Maximiliano Hernández Martínez, dictador del país hasta 1944.
+        Los militares continuaron dirigiendo El Salvador hasta comienzos de los años \'80.</string>
+
+
+    <string name="historia6">En 1979, un golpe de estado dirigido por una junta compuesta de militares y
+        civiles permitió a Duarte acceder a la cabeza del Estado el año siguiente (fue elegido presidente en mayo de 1994),
+        sin que cesaran por tanto los combates entre los guerrilleros del FFMLN y el ejército salvadoreño,
+        financieramente en lo sucesivo por los Estados Unidos. La guerra civil, simbolizada por el asesinato,
+        en su catedral, de monseñor Romero, arzobispo de San Salvador y defensor de los paisanos (marzo de 1980),
+        dejó 100.000 muertos en diez años y paralizó la economía del país.</string>
+
+
+    <string name="historia7">Las negociaciones de paz entre el gobierno y el FFMLN, entabladas por Duarte,
+        se prosiguieron después de la elección, en 1989, del candidato del Arena, Alfredo Cristiani.
+        Las dos partes aceptaron la mediación de las Naciones Unidas y, después de largos meses de negociaciones difíciles,
+        firmaron acuerdos de paz bajo el arbitrio de la ONU en enero de 1992 (tratado de Chapultepec).
+        El fin de la guerra fue proclamado oficialmente en diciembre de 1992.</string>
+    <string name="historia8">En virtud de los acuerdos de paz, las fuerzas rebeldes aceptaron deponer las armas
+        y tomar parte en el proceso político; se reunieron en una coalición de partidos bautizada Convergencia democrática.
+        La transición hacia una reconciliación nacional y la democracia tuvo tropiezos a lo largo de todo el año 1993,
+        pero tuvieron lugar las elecciones como estaba previsto en abril de 1994. Armando Calderón Sol, dirigente del Arena,
+        fue entonces elegido al frente del Estado.</string>
+
+
+
+    <string name="procesDes">Un prócer es una persona ilustre que tiene un gran carisma y
+        es respetada por defender los ideales de una nación, así como también es alguien
+        que ha luchado por la creación de una nueva nación que fuera independiente y soberana.</string>
+    <string name="procer">En este artículo conoceremos los próceres de la independencia de El Salvador,
+        es decir las personas que lucharon de una u otra forma por liberarnos del dominio español,
+        luego de casi tres siglos que ellos nos hubieran invadido.</string>
+    <string name="procer1">Conoceremos los nombres de los próceres de El Salvador,
+        así como también una pequeña biografía de cada uno de ellos para que también conozcas
+        un poco de su vida y su papel en esta lucha que terminara el 15 de septiembre de 1821.</string>
+    <string name="procer2">Es considerado como el personaje más importante en El Salvador, de hecho suele llamársele “Padre de la Patria”.\n
+        Nació el 24 de febrero de 1767 en la ciudad de San Salvador. Realizó sus estudios en el Colegio Seminario, en donde obtuvo el grado en filosofía y luego el de derecho. Más tarde optó por la carrera eclesiástica. Fue la figura clave del levantamiento del 5 de noviembre de 1811 contra la corona española.\n
+        Su posición de dirigente en la Iglesia, le facilitaba contactos con oligarcas criollos que se sentían excluidos del poder del mercadeo, ya que quienes lo manejaban eran españoles o gente puesta por la corona para esos fines. Matías convenció a los lideres católicos de la región, así como a los oligarcas criollos salvadoreños a sumarse a la revuelta independentista.
+
+        En 1820 integró a la junta provincial en donde coadyuvó
+        con empeño en los actos que condujeron a la proclamación
+        de independencia; en octubre de 1821,
+        fue nombrado intendente de San Salvador.\n
+        Falleció el 12 de noviembre de 1832, en la ciudad de San Salvador.
+
+</string>
+    <string name="procer4">Presbítero y Doctor, nació Zacatecoluca, el 8 de febrero de 1767,
+        era miembro de una familia acaudalada que con el fin de
+        educar a sus hijos se trasladó a Guatemala.
+        Desempeñó el alto puesto de Rector de la Real y
+        Pontificia Universidad de San Carlos, en Guatemala.\n
+        Cañas tenía un gran corazón; no compartía su pan con los
+        pobres, se los daba todo, y así fue como repartió entre
+        todos la cuantiosa herencia de sus padres.\n
+        Su salud fue siempre muy mala, pero él, con gran
+        esfuerzo supo sobreponerse a sus dolencias y mantener
+        siempre un espíritu sano y fuerte contra todos los males.\n
+        José Simeón Cañas falleció el 4 de marzo de 1838 y sus restos fueron sepultados en la Iglesia de El Pilar en San Vicente.
+</string>
+    <string name="procer5">Nació en San Salvador en 1768.
+        Luchó en favor de la Independencia de centroamérica y
+        formó parte de los movimientos independentistas de 1811,
+        preparando las milicias nacientes junto a Pedro Pablo Castillo.\n
+        Debido a su participación en las revueltas insurreccionales de
+        1814 en San Salvador, fue enviado a prisión. Después de la
+        independencia, luchó contra los ejércitos de Nicolás Abos
+        Padilla, enviado por Gabino Gaínza, y los del brigadier
+        Vicente Filísola. Fue derrotado porque por sus ideales de
+        y justicia, los dirigentes en el poder no lo apoyaron y
+        tuvo que salir al exilio.\n
+        A su regreso, fue recibido como héroe por haber sido el
+        inspirador de los batallones que aplastaron heroicamente
+        las fuerzas invasoras y es electo primer presidente de la
+        Federación Centroamericana.\n
+        Fue Arce el Primer Presidente de
+        Centroamerica, viéndose obligado a renunciar al ser
+        abandonado por el Partido Liberal. Dejada la Presidencia se
+        retiró a México. Poco después volvió a su patria,
+        aunque pronto fue obligado a refugiarse en Honduras.
+        Abatido por sus últimos fracasos, murió el 14 de diciembre
+        de 1847, siendo sus restos sepultados en la Iglesia de La
+        Merced en San Salvador.
+</string>
+    <string name="procer6"></string>
+    <string name="procer7"></string>
+    <string name="procer8"></string>
+    <string name="procer9"></string>
+    <string name="procer10"></string>
+    <string name="procer11"></string>
+
+    <string-array name="curso">
+        <item>Seleccione año</item>
+        <item>Primer año</item>
+        <item>Segundo año</item>
+    </string-array>
+    <string-array name="curso1">
+        <item>Seleccione carrera</item>
+        <item>Sistemas informaticos</item>
+        <item>Logistica</item>
+        <item>Electronica</item>
+    </string-array>
+
+
 </resources>
